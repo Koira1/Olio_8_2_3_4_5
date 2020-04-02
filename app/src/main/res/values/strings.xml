@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Olio_8_2_3_4_5</string>
+
+    <string-array name="tuotteet">
+        <item>Pepsi max</item>
+        <item>Coca cola zero</item>
+        <item>Fanta</item>
+    </string-array>
+
+    <string-array name="koko">
+        <item>1.5l</item>
+        <item>0.5l</item>
+    </string-array>
+</resources>
